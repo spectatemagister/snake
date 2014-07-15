@@ -1,3 +1,4 @@
-.testing
-..idea/
-.iml
+# Intellij
+.idea/
+*.iml
+*.iws

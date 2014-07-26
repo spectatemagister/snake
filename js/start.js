@@ -25,8 +25,8 @@ var update = function() {
 
 var render = function() {
   //render background
-  var w = window.screen.width;
-  var h = window.screen.height;
+  var w = window.innerWidth;
+  var h = window.innerHeight;
   context.fillStyle = "#3399FF";
   context.fillRect(0, 0, w, h);
 
